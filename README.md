@@ -3,7 +3,7 @@
 <p align="left"> 
   <samp>
   🎓 Software Engineering Student @ Karabük University<br>
-  💻 Passionate about <b>Backend Development</b> & <b>Automotive Software (Chip Tuning)</b><br>
+  💻 Passionate about <b>Backend Development</b> & <b>Automotive Software </b><br>
   🌱 Currently learning <b>Advanced Java, SQL & Python</b><br>
   🎯 Goal: Summer Internship 2026<br>
   📧 Contact: <a href="mailto:celikomer0824@gmail.com">celikomer0824@gmail.com</a>
