@@ -29,7 +29,7 @@
 | :--- | :--- | :--- |
 | **Java** | Core OOP, File I/O, Management Systems | ⭐⭐⭐⭐⭐ |
 | **C** | Data Structures, Algorithms | ⭐⭐⭐⭐ |
-| **SQL** | Database Management (Learning) | ⭐⭐ |
+| **SQL** | Database Management | ⭐⭐⭐️⭐️ |
 |**Python** | Automation & Scripting (Learning) | ⭐⭐ |
 ---
 
