@@ -1,7 +1,7 @@
 # Hi there, I'm Ömer Çelik! 👋
 
 ### 👨‍💻 About Me
-- 🎓 **Education:** 2nd Year Software Engineering Student @ Karabük University
+- 🎓 **Education:** 3nd Year Software Engineering Student @ Karabük University
 - 🚗 **Passion:** Automotive Software
 - ⚙️ **Focus:** Backend Development & System Architecture
 - 🎯 **Current Goal:** Seeking a challenging **Summer Internship 2026**
